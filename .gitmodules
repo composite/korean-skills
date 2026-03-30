@@ -1,0 +1,3 @@
+[submodule "ref/kordoc"]
+	path = ref/kordoc
+	url = https://github.com/chrisryugj/kordoc
