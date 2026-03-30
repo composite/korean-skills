@@ -1,0 +1,4 @@
+interface:
+  display_name: "kordoc: detect_format"
+  short_description: "Detect Korean document format with kordoc"
+  default_prompt: "Use $kordoc-detect-format to identify whether a local file is HWP, HWPX, PDF, or unknown."

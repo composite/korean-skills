@@ -1,0 +1,4 @@
+interface:
+  display_name: "kordoc: parse_document"
+  short_description: "Parse Korean documents with kordoc"
+  default_prompt: "Use $kordoc-parse-document to parse a local HWP, HWPX, or PDF document with kordoc."

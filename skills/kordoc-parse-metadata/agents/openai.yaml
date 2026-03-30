@@ -1,0 +1,4 @@
+interface:
+  display_name: "kordoc: parse_metadata"
+  short_description: "Extract document metadata with kordoc"
+  default_prompt: "Use $kordoc-parse-metadata to extract metadata from a local HWP, HWPX, or PDF document."

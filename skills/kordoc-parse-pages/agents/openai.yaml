@@ -1,0 +1,4 @@
+interface:
+  display_name: "kordoc: parse_pages"
+  short_description: "Parse selected document pages with kordoc"
+  default_prompt: "Use $kordoc-parse-pages to parse only selected pages or ranges from a local Korean document."

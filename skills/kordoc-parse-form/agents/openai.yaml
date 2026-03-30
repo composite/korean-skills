@@ -1,0 +1,4 @@
+interface:
+  display_name: "kordoc: parse_form"
+  short_description: "Extract Korean form fields with kordoc"
+  default_prompt: "Use $kordoc-parse-form to extract structured fields from a local Korean form document."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "kordoc: parse_table"
+  short_description: "Extract one document table with kordoc"
+  default_prompt: "Use $kordoc-parse-table to extract a specific table from a local Korean document."

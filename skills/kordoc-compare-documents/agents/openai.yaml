@@ -1,0 +1,4 @@
+interface:
+  display_name: "kordoc: compare_documents"
+  short_description: "Compare Korean documents with kordoc"
+  default_prompt: "Use $kordoc-compare-documents to compare two local Korean documents with kordoc."
